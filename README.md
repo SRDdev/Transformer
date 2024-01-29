@@ -1,8 +1,13 @@
 
+<img src="https://github.com/SRDdev/Transformer/blob/3d7eb04bd81a283360724effab6b3cc3bdde93a6/Banner"/>
 
-# <img src="https://github.com/SRDdev/Transformers/blob/a64264dfbaf077467d3a25e14298931f4b2ecc9d/assets/transformers_logo.png" alt="Alt Text" width="28" height="25"> Transformers
+# Transformers
 
-Welcome to Transformers a repository for understanding how the state of the art Transformers work. In this repository you will find how to build a Transformer from scratch and also how to use the SOTA Transformers from 🤗Huggingface.
+Welcome to Transformers a repository for understanding how the state-of-the-art Transformers work. In this repository you will find how to build a Transformer from scratch and also how to use the SOTA Transformers from 🤗Huggingface.
+
+```
+PS: This was a weekend project I did a year ago and thought of publishing now !
+```
 
 ## Introduction to Transformers
 The Transformers architecture is a type of deep neural network architecture that has revolutionized the field of natural language processing (NLP) and has been extended to many other applications such as computer vision, speech recognition, and recommendation systems. It was first introduced by Vaswani et al. in their seminal paper "Attention Is All You Need" in 2017, and has since become the state-of-the-art architecture for various NLP tasks. In this chapter, we will provide a detailed overview of the Transformers architecture, its components, and its working mechanism.
@@ -48,9 +53,9 @@ This repository is possible only because of [Ajay Halthor](https://github.com/aj
 ## Citations
 ```
 @citation{ 
-  SRD_Transformers,
+  SRDdev/Transformer,
   author = {Shreyas Dixit},
   year = {2023},
-  url = {https://huggingface.co/SRDdev/Script_GPT}
+  url = {https://huggingface.co/SRDdev/Transformer}
 }
 ```
